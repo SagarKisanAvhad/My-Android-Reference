@@ -8,3 +8,4 @@ Online best contents that I found for specific topic.
 3) [SSL Pinning](https://stackoverflow.com/questions/45699036/why-is-ssl-certificate-pinning-required) - why needed
 4) [JWT token decode](https://jwt.io/) - decode JWT token
 5) [Implementation Vs Api in Gradle](https://medium.com/mindorks/implementation-vs-api-in-gradle-3-0-494c817a6fa)
+6) [Dagger 2 blog and sample](https://android.jlelse.eu/7-steps-to-implement-dagger-2-in-android-dabc16715a3a) - 7 steps for implementing Dagger 2 by Anitaa Murthy
