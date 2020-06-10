@@ -11,3 +11,4 @@ Online best contents that I found for specific topic.
 6) [Dagger 2 blog and sample](https://android.jlelse.eu/7-steps-to-implement-dagger-2-in-android-dabc16715a3a) - 7 steps for implementing Dagger 2 in MVVM by Anitaa Murthy
 7) [Avoid memory leak](https://android.jlelse.eu/9-ways-to-avoid-memory-leaks-in-android-b6d81648e35e) - 9 ways to avoid memory leak by Anitaa Murthy
 8) [MVVM base project](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide) - how to create base project for beginner without dagger for simplicity by MindOrks
+9) [Retrofit and gson](https://futurestud.io/tutorials/retrofit-replace-the-integrated-json-converter) - customization and MindOrks bootcamp
