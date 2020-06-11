@@ -12,3 +12,5 @@ Online best contents that I found for specific topic.
 7) [Avoid memory leak](https://android.jlelse.eu/9-ways-to-avoid-memory-leaks-in-android-b6d81648e35e) - 9 ways to avoid memory leak by Anitaa Murthy
 8) [MVVM base project](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide) - how to create base project for beginner without dagger for simplicity by MindOrks
 9) [Retrofit and gson](https://futurestud.io/tutorials/retrofit-replace-the-integrated-json-converter) - customization and MindOrks bootcamp
+10) [MVP vs MVVM vs MVC](https://blog.mindorks.com/mvc-mvp-mvvm-architecture-in-android) - by Vandana Shrivastava
+11)[Practical Datastructure guide for Android](https://medium.com/mindorks/practical-data-structures-guide-for-android-developers-73fdec190802) - by Shikher Verma
