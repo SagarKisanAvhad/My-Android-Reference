@@ -14,3 +14,4 @@ Online best contents that I found for specific topic.
 9) [Retrofit and gson](https://futurestud.io/tutorials/retrofit-replace-the-integrated-json-converter) - customization and MindOrks bootcamp
 10) [MVP vs MVVM vs MVC](https://blog.mindorks.com/mvc-mvp-mvvm-architecture-in-android) - by Vandana Shrivastava
 11) [Practical Datastructure guide for Android](https://medium.com/mindorks/practical-data-structures-guide-for-android-developers-73fdec190802) - by Shikher Verma
+12) [Scarlet](https://github.com/Tinder/Scarlet) - Websocket library created by Tinder
