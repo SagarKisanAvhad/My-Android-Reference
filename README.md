@@ -16,3 +16,6 @@ Online best contents that I found for specific topic.
 11) [Practical Datastructure guide for Android](https://medium.com/mindorks/practical-data-structures-guide-for-android-developers-73fdec190802) - by Shikher Verma
 12) [Scarlet](https://github.com/Tinder/Scarlet) - Websocket library created by Tinder
 13) [Interview questions cheat sheet](https://github.com/MindorksOpenSource/android-interview-questions) - by MindOrks
+14) [RSA Encryption in Java](https://www.devglan.com/java8/rsa-encryption-decryption-java) - by Devglan
+15) [AES Encryption in Java](https://www.devglan.com/corejava/java-aes-encypt-decrypt) - by Devglan
+16) [Dagger dependency graph](https://android.jlelse.eu/gradle-dependency-tree-819b68898a53) - using gradle
