@@ -21,3 +21,4 @@ Online best contents that I found for specific topic.
 16) [Dagger dependency graph](https://android.jlelse.eu/gradle-dependency-tree-819b68898a53) - using gradle
 17) [Webview debugging](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/webviews) - Webview network debugging 
 18) [Java concurrency](https://www.youtube.com/playlist?list=PLhfHPmPYPPRk6yMrcbfafFGSbE2EPK_A6) - Defog tech channel on youtube
+19) [Best practices of OOPs, SOLID](https://www.geeksforgeeks.org/best-practices-of-object-oriented-programming-oop/?ref=leftbar-rightbar) - GeeksforGeeks
