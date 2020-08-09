@@ -20,3 +20,4 @@ Online best contents that I found for specific topic.
 15) [AES Encryption in Java](https://www.devglan.com/corejava/java-aes-encypt-decrypt) - by Devglan
 16) [Dagger dependency graph](https://android.jlelse.eu/gradle-dependency-tree-819b68898a53) - using gradle
 17) [Webview debugging](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/webviews) - Webview network debugging 
+18) [Java concurrency](https://www.youtube.com/playlist?list=PLhfHPmPYPPRk6yMrcbfafFGSbE2EPK_A6) - Defog tech channel on youtube
