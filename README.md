@@ -26,3 +26,4 @@ Online best contents that I found for specific topic.
 21) [Multidimension array, sorting, recursion](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - DS and Algorithm in Java by Apni Kaksha on youtube
 22) [MVVM,Coroutines,Offline first](https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjVaZ8DZKe8iT9RIM9OUrwp) - by Belal Khan
 23) [Design pattern use cases, Implementation](https://www.youtube.com/playlist?list=PLTyWtrsGknYfiybyI_6R7KvHSql0DW-2v) - by Tech Primer channel on youtube
+24) [Alphabetical list of Rxjava operators](https://rxjava-doc.readthedocs.io/en/latest/Alphabetical-List-of-Observable-Operators/) - by Rxjava docs
