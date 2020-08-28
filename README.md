@@ -27,3 +27,4 @@ Online best contents that I found for specific topic.
 22) [MVVM,Coroutines,Offline first](https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjVaZ8DZKe8iT9RIM9OUrwp) - by Belal Khan
 23) [Design pattern use cases, Implementation](https://www.youtube.com/playlist?list=PLTyWtrsGknYfiybyI_6R7KvHSql0DW-2v) - by Tech Primer channel on youtube
 24) [Alphabetical list of Rxjava operators](https://rxjava-doc.readthedocs.io/en/latest/Alphabetical-List-of-Observable-Operators/) - by Rxjava docs
+25) [System design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - by Gaurav Sen on youtube
