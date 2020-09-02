@@ -29,3 +29,5 @@ Online best contents that I found for specific topic.
 24) [Alphabetical list of Rxjava operators](https://rxjava-doc.readthedocs.io/en/latest/Alphabetical-List-of-Observable-Operators/) - by Rxjava docs
 25) [System design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - by Gaurav Sen on youtube
 26) [Best courses] - academind, codewithmosh and codesikho
+27) [Coroutine video series](https://www.youtube.com/playlist?list=PLk7v1Z2rk4hj6PpRhOLPNuNorZk2zaSF5) - by Belal Khan
+28) [TODO List, Plaid, Sunflower apps](https://github.com/android/architecture-samples) - google samples for architecture. code reading must
