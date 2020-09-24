@@ -31,3 +31,4 @@ Online best contents that I found for specific topic.
 26) [Best courses] - academind, codewithmosh and codesikho
 27) [Coroutine video series](https://www.youtube.com/playlist?list=PLk7v1Z2rk4hj6PpRhOLPNuNorZk2zaSF5) - by Belal Khan
 28) [TODO List, Plaid, Sunflower apps](https://github.com/android/architecture-samples) - google samples for architecture. code reading must
+29) [Cold and Hot Observables](https://medium.com/mobile-app-development-publication/rxjava-2-understanding-hot-vs-cold-with-just-vs-fromcallable-3c463f9f68c9) - by elye
