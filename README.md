@@ -5,7 +5,7 @@ Online best contents that I found for specific topic.
 
 1) [Progaurd commands and its meaning](https://jebware.com/blog/?p=418) - different progaurd -keep directives by Jeb
 2) [Dexgaurd](https://www.guardsquare.com/en/blog/setting-up-dexguard-android-studio#:~:text=%2D%20DexGuard%20comes%20with%20a%20plugin,and%20double%2Dclick%20to%20install.) - better than proguard
-3) [SSL Pinning](https://stackoverflow.com/questions/45699036/why-is-ssl-certificate-pinning-required) - why needed
+3) [Why needed SSL Pinning](https://stackoverflow.com/questions/45699036/why-is-ssl-certificate-pinning-required) - why needed
 4) [JWT token decode](https://jwt.io/) - decode JWT token
 5) [Implementation Vs Api in Gradle](https://medium.com/mindorks/implementation-vs-api-in-gradle-3-0-494c817a6fa)
 6) [Dagger 2 blog and sample](https://android.jlelse.eu/7-steps-to-implement-dagger-2-in-android-dabc16715a3a) - 7 steps for implementing Dagger 2 in MVVM by Anitaa Murthy
@@ -36,3 +36,5 @@ Online best contents that I found for specific topic.
 31) [Power of Flutter: Zerodha App](https://www.youtube.com/watch?v=rSN8OLs1B0U&feature=youtu.be) - by Ajin 
 32) [Coroutine in Android blog](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide) - by Amit Shekhar
 33) [Learn Coroutine by example](https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples) - by Amit Shekhar
+34) [SSL Pinning implementation](https://medium.com/@sreekumar_av/certificate-public-key-pinning-in-android-using-retrofit-2-0-74140800025b) - by Sree Kumar
+35) [Data Safety Android KeyStore](https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples) - by Mindorks
