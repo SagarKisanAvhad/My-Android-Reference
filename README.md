@@ -38,3 +38,4 @@ Online best contents that I found for specific topic.
 33) [Learn Coroutine by example](https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples) - by Amit Shekhar
 34) [SSL Pinning implementation](https://medium.com/@sreekumar_av/certificate-public-key-pinning-in-android-using-retrofit-2-0-74140800025b) - by Sree Kumar
 35) [Data Safety Android KeyStore](https://blog.mindorks.com/how-to-encrypt-data-safely-on-device-and-use-the-androidkeystore) - by Mindorks
+34) [Create dynamic layout](https://medium.com/mindorks/creating-dynamic-layouts-in-android-d4008b72f2d) - by Mindorks
