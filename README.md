@@ -28,7 +28,7 @@ Online best contents that I found for specific topic.
 23) [Design pattern use cases, Implementation](https://www.youtube.com/playlist?list=PLTyWtrsGknYfiybyI_6R7KvHSql0DW-2v) - by Tech Primer channel on youtube
 24) [Alphabetical list of Rxjava operators](https://rxjava-doc.readthedocs.io/en/latest/Alphabetical-List-of-Observable-Operators/) - by Rxjava docs
 25) [System design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - by Gaurav Sen on youtube
-26) [Best courses] - academind, codewithmosh and codesikho
+26) [Best courses] - academind, codewithmosh, codingwithmitch and codesikho
 27) [Coroutine video series](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lzyprk1wxs4CT15hOqvW0oC) - by Smartherd on youtube
 28) [TODO List, Plaid, Sunflower apps](https://github.com/android/architecture-samples) - google samples for architecture. code reading must
 29) [Cold and Hot Observables](https://medium.com/mobile-app-development-publication/rxjava-2-understanding-hot-vs-cold-with-just-vs-fromcallable-3c463f9f68c9) - by elye
