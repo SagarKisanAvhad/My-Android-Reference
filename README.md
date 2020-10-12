@@ -41,3 +41,4 @@ Online best contents that I found for specific topic.
 36) [Create dynamic layout](https://medium.com/mindorks/creating-dynamic-layouts-in-android-d4008b72f2d) - by Mindorks
 37) [Learn Coroutine Flow by example](https://github.com/MindorksOpenSource/Kotlin-Flow-Android-Examples) - by Amit Shekhar
 38) [Coil - Image loading library](https://github.com/coil-kt/coil) - it uses kotlin coroutine internally.
+39) [Paging-coroutine-flow-channel-nestedRV and much more](https://gitlab.com/parfenovvs/g-base) - advance codebase on gitlab by Vladimir Parfenov
