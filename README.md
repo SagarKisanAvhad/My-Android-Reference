@@ -44,3 +44,4 @@ Online best contents that I found for specific topic.
 39) [Paging-coroutine-flow-channel-nestedRV and much more](https://gitlab.com/parfenovvs/g-base) - advance codebase on gitlab by Vladimir Parfenov
 40) [Jetpack Compose](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples) - by Mindorks
 41) [Databinding in depth](https://developer.android.com/topic/libraries/data-binding) - Official android docs
+42) [Components based architecture](https://proandroiddev.com/scalable-architecture-for-big-mobile-projects-c48f329a2275) - PAD medium
