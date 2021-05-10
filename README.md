@@ -45,3 +45,5 @@ Online best contents that I found for specific topic.
 40) [Jetpack Compose](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples) - by Mindorks
 41) [Databinding in depth](https://developer.android.com/topic/libraries/data-binding) - Official android docs
 42) [Components based architecture](https://proandroiddev.com/scalable-architecture-for-big-mobile-projects-c48f329a2275) - PAD medium
+43) [Chrome custom tabs official](https://developer.chrome.com/docs/android/custom-tabs/overview/#:~:text=Custom%20Tabs%20is%20a%20browser,to%20resort%20to%20a%20WebView.&text=An%20app%20can%20change%20things,Toolbar%20color) - official
+44) [Chrome custom tabs demo](https://github.com/hitherejoe/Tabby) - github sample
