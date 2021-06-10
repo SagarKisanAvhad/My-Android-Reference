@@ -51,3 +51,4 @@ Online best contents that I found for specific topic.
 46) [Learn Flutter by Project in Hindi](https://www.youtube.com/watch?v=j-LOab_PzzU&t=79s) - mtechviral youtube channel
 47) [Make Android Studio Faster](https://upaae.com/how-to-make-android-studio-faster-in-2-steps/) - upaae.com
 48) [Make Android Studio SuperFast](https://blog.mindorks.com/speed-up-gradle-build-for-android-to-save-your-time) - Mindorks blog
+49) [GDE Wajahat Karim's blog](https://wajahatkarim.com/)
