@@ -55,3 +55,4 @@ Online best contents that I found for specific topic.
 50) [Activity Lifecycle with example use cases](https://www.youtube.com/watch?v=RiFui-i-s-o) - MindOrks youtube channel
 51) [two way data binding](https://proandroiddev.com/databinding-in-android-b3cb41a8e0c5) - Satya
 52) [two-way data binding using custom attribute](https://medium.com/@douglas.iacovelli/custom-two-way-databinding-made-easy-f8b17a4507d2) - Medium
+53) [Philipp Lackner - The Best Free Online Courses](https://pl-coding.com/courses/) - Rest api building in Kotlin,Unit test, Compose, Coroutine, AR app, News App, Music player, running app building from scratch
