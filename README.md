@@ -57,3 +57,4 @@ Online best contents that I found for specific topic.
 52) [two-way data binding using custom attribute](https://medium.com/@douglas.iacovelli/custom-two-way-databinding-made-easy-f8b17a4507d2) - Medium
 53) [Philipp Lackner - The Best Free Online Courses](https://pl-coding.com/courses/) - Rest api building in Kotlin,Unit test, Compose, Coroutine, AR app, News App, Music player, running app building from scratch
 54) [TDD feature, bugfix](https://www.raywenderlich.com/7109-test-driven-development-tutorial-for-android-getting-started) - raywenderlich
+55) [Fragment Lifecycle with use cases cheatsheet](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd) - by jose on Medium
