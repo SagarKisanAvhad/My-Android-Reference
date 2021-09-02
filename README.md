@@ -60,3 +60,4 @@ Online best contents that I found for specific topic.
 55) [Fragment Lifecycle with use cases cheatsheet](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd) - by jose on Medium
 56) [NestedRecyclerView heterogeneous RecyclerView Blog](https://medium.com/@seidalins/delegate-adapters-building-heterogeneous-recyclerviewadapter-877cb7d3c6c0) - Adapter Delegate Blog. app like playstore, movie app, game app.
 57) [NestedRecyclerView heterogeneous RecyclerView github](https://github.com/sockeqwe/AdapterDelegates) - Adapter Delegate github. app like playstore, movie app, game app.
+58) [Fragment Testing](https://www.youtube.com/watch?v=4kYiSd2QsRE&list=PLk7v1Z2rk4hgYY9Dus2h0DxUus0VX_igd&index=5) - Belal Khan on youtube
