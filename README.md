@@ -61,3 +61,5 @@ Online best contents that I found for specific topic.
 56) [NestedRecyclerView heterogeneous RecyclerView Blog](https://medium.com/@seidalins/delegate-adapters-building-heterogeneous-recyclerviewadapter-877cb7d3c6c0) - Adapter Delegate Blog. app like playstore, movie app, game app.
 57) [NestedRecyclerView heterogeneous RecyclerView github](https://github.com/sockeqwe/AdapterDelegates) - Adapter Delegate github. app like playstore, movie app, game app.
 58) [Fragment Testing](https://www.youtube.com/watch?v=4kYiSd2QsRE&list=PLk7v1Z2rk4hgYY9Dus2h0DxUus0VX_igd&index=5) - Belal Khan on youtube
+59) [Rxjava Error cases](https://www.baeldung.com/rxjava-error-handling) - Baeldung
+60) [Rxjava compose operator](https://blog.danlew.net/2015/03/02/dont-break-the-chain/) - Dan Lew
