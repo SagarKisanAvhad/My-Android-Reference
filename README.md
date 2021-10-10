@@ -65,3 +65,4 @@ Online best contents that I found for specific topic.
 60) [Rxjava compose operator](https://blog.danlew.net/2015/03/02/dont-break-the-chain/) - Dan Lew
 61) [different assert functions of google Truth testing library](https://www.baeldung.com/google-truth) - baeldung
 62) [Jetpack Compose Samples Official](https://github.com/android/compose-samples) - Many types of screens created in Compose by google
+63) [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)- Uncle Bob
