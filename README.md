@@ -66,3 +66,4 @@ Online best contents that I found for specific topic.
 61) [different assert functions of google Truth testing library](https://www.baeldung.com/google-truth) - baeldung
 62) [Jetpack Compose Samples Official](https://github.com/android/compose-samples) - Many types of screens created in Compose by google
 63) [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)- Uncle Bob
+64) [reified keyword use](https://www.youtube.com/watch?v=On7fkIK1fu4&t=2s) - Elye
