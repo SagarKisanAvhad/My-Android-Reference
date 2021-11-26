@@ -68,3 +68,4 @@ Online best contents that I found for specific topic.
 63) [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)- Uncle Bob
 64) [reified keyword use](https://www.youtube.com/watch?v=On7fkIK1fu4&t=2s) - Elye
 65) [Coroutine Master](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide) - Amit
+66) [imp hashtag]- #AndroidDevSummit #KotlinConf
