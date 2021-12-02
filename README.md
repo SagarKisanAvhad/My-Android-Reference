@@ -71,3 +71,4 @@ Online best contents that I found for specific topic.
 66) [imp hashtag]- #AndroidDevSummit #KotlinConf
 67) [Best article on inline, noinline and crossinline](https://blog.mindorks.com/understanding-inline-noinline-and-crossinline-in-kotlin) - MindOrks
 68) [offline first approach](https://www.netguru.com/blog/how-to-design-offline-first-approach-in-mobile-app)
+69) [Data Structure and Algorithm](https://www.interviewcake.com/article/python/data-structures-coding-interview)
