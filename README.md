@@ -73,3 +73,4 @@ Online best contents that I found for specific topic.
 68) [offline first approach](https://www.netguru.com/blog/how-to-design-offline-first-approach-in-mobile-app)
 69) [Data Structure and Algorithm](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 70) [System Design]- 2 youtube channels = Gaurav Sen + sudoCODE
+71) [Software testing cheatsheet](https://cheatography.com/deleted-2754/cheat-sheets/testing-types/)
