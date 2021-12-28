@@ -75,3 +75,4 @@ Online best contents that I found for specific topic.
 70) [System Design]- 2 youtube channels = Gaurav Sen + sudoCODE
 71) [Software testing cheatsheet](https://cheatography.com/deleted-2754/cheat-sheets/testing-types/)
 72) [Software testing geeksforgeeks](https://www.geeksforgeeks.org/types-software-testing/)
+73) [GraphQL](https://programmingwithmosh.com/category/backend/graphql/) -codingwithmosh blog
