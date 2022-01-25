@@ -76,3 +76,6 @@ Online best contents that I found for specific topic.
 71) [Software testing cheatsheet](https://cheatography.com/deleted-2754/cheat-sheets/testing-types/)
 72) [Software testing geeksforgeeks](https://www.geeksforgeeks.org/types-software-testing/)
 73) [GraphQL](https://programmingwithmosh.com/category/backend/graphql/) -codingwithmosh blog
+74) [graphql apollo mvvm clean github](https://github.com/HamdiBoumaiza/ApolloRickAndMorty) - Hamdi
+75) [graphql blog](https://hamdiboumaiza.medium.com/) - Hamdi
+76) [server driven ui](https://proandroiddev.com/dynamic-screens-using-server-driven-ui-in-android-262f1e7875c1) - dynamic
