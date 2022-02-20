@@ -79,3 +79,4 @@ Online best contents that I found for specific topic.
 74) [graphql apollo mvvm clean github](https://github.com/HamdiBoumaiza/ApolloRickAndMorty) - Hamdi
 75) [graphql blog](https://hamdiboumaiza.medium.com/) - Hamdi
 76) [server driven ui](https://proandroiddev.com/dynamic-screens-using-server-driven-ui-in-android-262f1e7875c1) - dynamic
+77) [When to prefer Composition over Inheritance](https://www.rockandnull.com/composition-over-inheridance/) - scenario for composition and inheritance
