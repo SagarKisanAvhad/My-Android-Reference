@@ -84,3 +84,5 @@ Online best contents that I found for specific topic.
 79) [How does suspension work in Kotlin coroutines?](https://kt.academy/article/cc-suspension) - Kt Academy
 80) [Call by Value and Call by Reference in Java](https://www.scientecheasy.com/2020/06/java-call-by-value-and-call-by-reference.html/) - Scitecheasy
 81) [ConstraintLayout Flow](https://proandroiddev.com/awesomeness-of-constraintlayout-flow-aa0b5edd5df) - PAD
+82) [Component based architecture using compose](https://betterprogramming.pub/create-a-component-based-architecture-in-android-jetpack-compose-96980c191351) - Anup Ammanavar better programming
+83) [How to handle interaction in component based architecture](https://medium.com/better-programming/how-to-handle-user-interactions-with-component-based-architecture-and-jetpack-compose-196e8cdd1aee) - Anup Ammanavar
