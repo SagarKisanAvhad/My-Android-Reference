@@ -86,3 +86,4 @@ Online best contents that I found for specific topic.
 81) [ConstraintLayout Flow](https://proandroiddev.com/awesomeness-of-constraintlayout-flow-aa0b5edd5df) - PAD
 82) [Component based architecture using compose](https://betterprogramming.pub/create-a-component-based-architecture-in-android-jetpack-compose-96980c191351) - Anup Ammanavar better programming
 83) [How to handle interaction in component based architecture](https://medium.com/better-programming/how-to-handle-user-interactions-with-component-based-architecture-and-jetpack-compose-196e8cdd1aee) - Anup Ammanavar
+84) [How recyclerview works internally](https://medium.com/1mgofficial/how-recyclerview-works-internally-71290de5d2c4) - Niharika Arora
