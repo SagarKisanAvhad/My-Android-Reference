@@ -89,3 +89,5 @@ Online best contents that I found for specific topic.
 84) [How recyclerview works internally](https://medium.com/1mgofficial/how-recyclerview-works-internally-71290de5d2c4) - Niharika Arora
 85) [coroutine in layman language](https://medium.com/mobile-app-development-publication/kotlin-coroutine-scope-context-and-job-made-simple-5adf89fcfe94)- Elye 
 86) [Graphql apollo docs for kotlin](https://www.apollographql.com/docs/kotlin/essentials/file-types/)- graphl for apollo kotlin client
+87) [Very nice articles in medium](https://magdamiu.medium.com/) - Magda Miu on medium
+88) [design patterns shared by Ujjawal](https://refactoring.guru/design-patterns)
