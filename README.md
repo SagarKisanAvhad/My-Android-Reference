@@ -91,3 +91,4 @@ Online best contents that I found for specific topic.
 86) [Graphql apollo docs for kotlin](https://www.apollographql.com/docs/kotlin/essentials/file-types/)- graphl for apollo kotlin client
 87) [Very nice articles in medium](https://magdamiu.medium.com/) - Magda Miu on medium
 88) [design patterns shared by Ujjawal](https://refactoring.guru/design-patterns)
+89) [Flow, StateFlow, shared flow testing emitting and collecting side](https://codingwithmohit.com/coroutines/learning-shared-and-state-flows-with-tests/) - coding with mohit. After 2 days struggle, finally found.
