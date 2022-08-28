@@ -93,3 +93,4 @@ Online best contents that I found for specific topic.
 88) [design patterns shared by Ujjawal](https://refactoring.guru/design-patterns)
 89) [Flow, StateFlow, shared flow testing emitting and collecting side](https://codingwithmohit.com/coroutines/learning-shared-and-state-flows-with-tests/) - coding with mohit. After 2 days struggle, finally found.
 90) [Kotlin corouting Use cases example](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android) - LukasLechnerDev GitHub
+91) [Imp algorithms in System Designs](https://blog.bytebytego.com/p/algorithms-you-should-know-before) - ByteByteGo Blog
