@@ -95,3 +95,4 @@ Online best contents that I found for specific topic.
 90) [Kotlin corouting Use cases example](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android) - LukasLechnerDev GitHub
 91) [Imp algorithms in System Designs](https://blog.bytebytego.com/p/algorithms-you-should-know-before) - ByteByteGo Blog
 92) [Thinking in Compose](https://www.youtube.com/watch?v=SMOhl9RK0BA) - youtube video from Android Developers channel
+93) [Data structures by mycodeschool youtube channel](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - shared by Nayan
