@@ -27,7 +27,7 @@ Online best contents that I found for specific topic.
 22) [MVVM,Coroutines,Offline first](https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjVaZ8DZKe8iT9RIM9OUrwp) - by Belal Khan
 23) [Design pattern use cases, Implementation](https://www.youtube.com/playlist?list=PLTyWtrsGknYfiybyI_6R7KvHSql0DW-2v) - by Tech Primer channel on youtube
 24) [Alphabetical list of Rxjava operators](https://rxjava-doc.readthedocs.io/en/latest/Alphabetical-List-of-Observable-Operators/) - by Rxjava docs
-25) [System design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - by Gaurav Sen on youtube
+25) [System design](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) - by sudoCODE on youtube
 26) [Best courses] - academind, codewithmosh, codingwithmitch and codesikho
 27) [Coroutine video series](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lzyprk1wxs4CT15hOqvW0oC) - by Smartherd on youtube
 28) [TODO List, Plaid, Sunflower apps](https://github.com/android/architecture-samples) - google samples for architecture. code reading must
