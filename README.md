@@ -101,6 +101,6 @@ Online best contents that I found for specific topic.
 96) [graphql basic syntax](https://graphql.org/learn/schema/)
 97) [Space complexity](https://www.scaler.com/topics/data-structures/space-complexity-in-data-structure/) - Scalar topics
 98) [Asynchronous programming](https://www.bmc.com/blogs/asynchronous-programming/) - beautiful blog by bmc. general concept.
-99) [How to use leetcode](https://www.youtube.com/watch?v=6jf6SK9qWBc)
-100)[Best way to use leetcode](https://neetcode.io/practice) - using neetcode
+99) [How to use leetcode](https://www.youtube.com/watch?v=6jf6SK9qWBc) - youtube video
+100) [Best way to use leetcode](https://neetcode.io/practice) - using neetcode
 
