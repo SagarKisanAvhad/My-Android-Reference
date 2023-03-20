@@ -104,4 +104,5 @@ Online best contents that I found for specific topic.
 99) [How to use leetcode](https://www.youtube.com/watch?v=6jf6SK9qWBc) - youtube video
 100) [Best way to use leetcode](https://neetcode.io/practice) - using neetcode
 101) [How to improve english speaking](https://www.youtube.com/watch?v=UvGDcaj1-RE) - Dr. Vivek Modi 
+102) [How to understand Jetpack Compose code](https://www.composables.co/blog/compose-intro) - Composables blogging website
 
