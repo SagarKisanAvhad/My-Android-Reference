@@ -105,4 +105,6 @@ Online best contents that I found for specific topic.
 100) [Best way to use leetcode](https://neetcode.io/practice) - using neetcode
 101) [How to improve english speaking](https://www.youtube.com/watch?v=UvGDcaj1-RE) - Dr. Vivek Modi 
 102) [How to understand Jetpack Compose code](https://www.composables.co/blog/compose-intro) - Composables blogging website
+103) [Throughput vs Latency](https://www.youtube.com/watch?v=f7VsHLk_Z8c) - performance matrix
+104) [What is p99, p95, p75](https://www.youtube.com/watch?v=3JdQOExKtUY&t=1s) - performance matrix
 
