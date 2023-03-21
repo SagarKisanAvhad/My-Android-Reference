@@ -107,5 +107,6 @@ Online best contents that I found for specific topic.
 102) [How to understand Jetpack Compose code](https://www.composables.co/blog/compose-intro) - Composables blogging website
 103) [Throughput vs Latency](https://www.youtube.com/watch?v=f7VsHLk_Z8c) - performance matrix
 104) [What is p99, p95, p75](https://www.youtube.com/watch?v=3JdQOExKtUY&t=1s) - performance matrix
-105) [Charles proxy setup](https://www.youtube.com/watch?v=2VnA5VfFpNk)
+105) [Charles proxy setup](https://www.youtube.com/watch?v=2VnA5VfFpNk) - Sunil Kumar Sahoo
+106) [how to pass query variables in graphQL playground](https://www.youtube.com/watch?v=eM7RsolIghQ) - Amitav Roy
 
