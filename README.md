@@ -111,4 +111,5 @@ Online best contents that I found for specific topic.
 106) [how to pass query variables in graphQL playground](https://www.youtube.com/watch?v=eM7RsolIghQ) - Amitav Roy
 107) [Mobile System design round preparation](https://docs.google.com/document/d/13LG3L6P6itHsvw7MXgzbAglbMTeukzYOf-H2Itnbajo/edit?usp=sharing) - Amit Shekhar
 108) [Webm to gif converter online free](https://www.veed.io/convert/webm-to-gif) - veed.io. we can also convert video to gif. I prefer gifsky app for video to gif converter
+109) [SOLID and Clean code](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) - blog by Uncle bob
 
