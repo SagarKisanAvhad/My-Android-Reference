@@ -117,5 +117,6 @@ Online best contents that I found for specific topic.
 112) [Jetpack compose by example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) - repository by Vinay Gaba
 113) [compose projects](https://medium.com/codex/7-jetpack-compose-projects-to-become-a-better-android-developer-98714dcdeff8)
 114) [Internal working of View model](https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e) - shared by Amit Verma
+115) [Difference between compilesdkversion and targetsdkversion](https://proandroiddev.com/compilesdkversion-and-targetsdkversion-what-is-the-difference-b4227c663ba8) - Paulina medium article.
 
 
