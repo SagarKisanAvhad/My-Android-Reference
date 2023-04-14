@@ -119,3 +119,4 @@ Online best contents that I found for specific topic.
 114) [Internal working of View model](https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e) - shared by Amit Verma
 115) [Difference between compilesdkversion and targetsdkversion](https://proandroiddev.com/compilesdkversion-and-targetsdkversion-what-is-the-difference-b4227c663ba8) - Paulina medium article.
 116) [How does Viewmodel work internally?](https://www.youtube.com/watch?v=HWiYYihaJ4A) - Abhriya Roy youtube channel.
+117) [How does Viewmodel work internally?](https://medium.com/google-developer-experts/viewmodels-under-the-hood-f8e286c4cc72) - medium article
