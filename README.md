@@ -126,3 +126,5 @@ Online best contents that I found for specific topic.
 121) [Uber RIBs architecture](https://github.com/uber/RIBs) - Uber
 122) [What is RIBs architecture](https://medium.com/@shinoogoyalaggarwal/rib-what-is-this-new-architecture-22ec729df70e) - medium blog
 123) [Saving UI state and ViewModel](https://medium.com/androiddevelopers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090) - by Lyla
+124) [Apollo Federation docs](https://www.apollographql.com/docs/federation/)
+125) [Apollo Federation Video course about resolver](https://www.apollographql.com/tutorials/voyage-part1/01-intro-to-federation)
