@@ -128,5 +128,5 @@ Online best contents that I found for specific topic.
 123) [Saving UI state and ViewModel](https://medium.com/androiddevelopers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090) - by Lyla
 124) [Apollo Federation docs](https://www.apollographql.com/docs/federation/)
 125) [Apollo Federation Video course about resolver](https://www.apollographql.com/tutorials/voyage-part1/01-intro-to-federation)
-126) [Apollo Federation demo sample repo](https://github.com/mandiwise/space-camp-federation-demo)
+126) [Apollo Federation demo sample repo](https://github.com/SagarKisanAvhad/space-camp-federation-demo/tree/master)
 127) [Apollo Federation demo sample video](https://www.youtube.com/watch?v=v_1bn2sHdk4)
