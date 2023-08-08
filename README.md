@@ -130,3 +130,4 @@ Online best contents that I found for specific topic.
 125) [Apollo Federation Video course about resolver](https://www.apollographql.com/tutorials/voyage-part1/01-intro-to-federation)
 126) [Apollo Federation demo sample repo](https://github.com/SagarKisanAvhad/space-camp-federation-demo/tree/master)
 127) [Apollo Federation demo sample video](https://www.youtube.com/watch?v=v_1bn2sHdk4)
+128) [SDKMAN](https://www.baeldung.com/java-sdkman-intro) - How to maintain multiple versions of a same SDK. e.g. how to maintain latest JDK and JDK 8 in the same machine.
