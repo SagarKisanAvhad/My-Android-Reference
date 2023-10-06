@@ -134,3 +134,4 @@ Online best contents that I found for specific topic.
 129) [Android source code](https://cs.android.com/androidx/platform/frameworks/support) - read android source code
 130) [Suspend function under the hood](https://blog.kotlin-academy.com/kotlin-coroutines-animated-part-1-coroutine-hello-world-51797d8b9cd4) - shared by Athul Antony
 131) [HTTP Caching and E-Tags](https://www.youtube.com/watch?v=TgZnpp5wJWU&ab_channel=HusseinNasser) - youtube
+132) [Best article on SOLID in Android Kotlin](https://blog.stackademic.com/solid-design-principles-with-kotlin-android-69e75a566c41) - medium
