@@ -114,24 +114,25 @@ Online best contents that I found for specific topic.
 109) [Webm to gif converter online free](https://www.veed.io/convert/webm-to-gif) - veed.io. we can also convert video to gif. I prefer gifsky app for video to gif converter
 110) [SOLID and Clean code](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) - blog by Uncle bob
 111) [Podcast by Android platform team](https://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes#)
-112) [Facebook Compose using Jetpack Compose](https://github.com/alexstyl/facebook-compose) - Alex Styl from composables. [youtube link](https://www.youtube.com/watch?v=CD15HtjmrWA)
-113) [Jetpack compose by example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) - repository by Vinay Gaba
-114) [compose projects](https://medium.com/codex/7-jetpack-compose-projects-to-become-a-better-android-developer-98714dcdeff8)
-115) [Internal working of View model](https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e) - shared by Amit Verma
-116) [Difference between compilesdkversion and targetsdkversion](https://proandroiddev.com/compilesdkversion-and-targetsdkversion-what-is-the-difference-b4227c663ba8) - Paulina medium article.
-117) [How does Viewmodel work internally?](https://www.youtube.com/watch?v=HWiYYihaJ4A) - Abhriya Roy youtube channel.
-118) [How does Viewmodel work internally?](https://medium.com/mindorks/android-viewmodels-under-the-hood-ddc679d77dd5) - shared by Amit Verma
-119) [Compose Clean architecture Hindi](https://www.youtube.com/@himanshugaur/playlists) - Vision Android Hindi channel
-120) [Kotlin unit testing](https://kotlintesting.com/mocking-suspend-with-mockk/) - Android unit testing coroutine
-121) [Uber RIBs architecture](https://github.com/uber/RIBs) - Uber
-122) [What is RIBs architecture](https://medium.com/@shinoogoyalaggarwal/rib-what-is-this-new-architecture-22ec729df70e) - medium blog
-123) [Saving UI state and ViewModel](https://medium.com/androiddevelopers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090) - by Lyla
-124) [Apollo Federation docs](https://www.apollographql.com/docs/federation/)
-125) [Apollo Federation Video course about resolver](https://www.apollographql.com/tutorials/voyage-part1/01-intro-to-federation)
-126) [Apollo Federation demo sample repo](https://github.com/SagarKisanAvhad/space-camp-federation-demo/tree/master)
-127) [Apollo Federation demo sample video](https://www.youtube.com/watch?v=v_1bn2sHdk4)
-128) [SDKMAN](https://www.baeldung.com/java-sdkman-intro) - How to maintain multiple versions of a same SDK. e.g. how to maintain latest JDK and JDK 8 in the same machine.
-129) [Android source code](https://cs.android.com/androidx/platform/frameworks/support) - read android source code
-130) [Suspend function under the hood](https://blog.kotlin-academy.com/kotlin-coroutines-animated-part-1-coroutine-hello-world-51797d8b9cd4) - shared by Athul Antony
-131) [HTTP Caching and E-Tags](https://www.youtube.com/watch?v=TgZnpp5wJWU&ab_channel=HusseinNasser) - youtube
-132) [Best article on SOLID in Android Kotlin](https://blog.stackademic.com/solid-design-principles-with-kotlin-android-69e75a566c41) - medium
+112) [Compose modelling complex screen step by step](https://www.composables.com/tutorials/modelling) - Alex Styl
+113) [Facebook Compose using Jetpack Compose](https://github.com/alexstyl/facebook-compose) - Alex Styl from composables. [youtube link](https://www.youtube.com/watch?v=CD15HtjmrWA)
+114) [Jetpack compose by example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) - repository by Vinay Gaba
+115) [compose projects](https://medium.com/codex/7-jetpack-compose-projects-to-become-a-better-android-developer-98714dcdeff8)
+116) [Internal working of View model](https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e) - shared by Amit Verma
+117) [Difference between compilesdkversion and targetsdkversion](https://proandroiddev.com/compilesdkversion-and-targetsdkversion-what-is-the-difference-b4227c663ba8) - Paulina medium article.
+118) [How does Viewmodel work internally?](https://www.youtube.com/watch?v=HWiYYihaJ4A) - Abhriya Roy youtube channel.
+119) [How does Viewmodel work internally?](https://medium.com/mindorks/android-viewmodels-under-the-hood-ddc679d77dd5) - shared by Amit Verma
+120) [Compose Clean architecture Hindi](https://www.youtube.com/@himanshugaur/playlists) - Vision Android Hindi channel
+121) [Kotlin unit testing](https://kotlintesting.com/mocking-suspend-with-mockk/) - Android unit testing coroutine
+122) [Uber RIBs architecture](https://github.com/uber/RIBs) - Uber
+123) [What is RIBs architecture](https://medium.com/@shinoogoyalaggarwal/rib-what-is-this-new-architecture-22ec729df70e) - medium blog
+124) [Saving UI state and ViewModel](https://medium.com/androiddevelopers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090) - by Lyla
+125) [Apollo Federation docs](https://www.apollographql.com/docs/federation/)
+126) [Apollo Federation Video course about resolver](https://www.apollographql.com/tutorials/voyage-part1/01-intro-to-federation)
+127) [Apollo Federation demo sample repo](https://github.com/SagarKisanAvhad/space-camp-federation-demo/tree/master)
+128) [Apollo Federation demo sample video](https://www.youtube.com/watch?v=v_1bn2sHdk4)
+129) [SDKMAN](https://www.baeldung.com/java-sdkman-intro) - How to maintain multiple versions of a same SDK. e.g. how to maintain latest JDK and JDK 8 in the same machine.
+130) [Android source code](https://cs.android.com/androidx/platform/frameworks/support) - read android source code
+131) [Suspend function under the hood](https://blog.kotlin-academy.com/kotlin-coroutines-animated-part-1-coroutine-hello-world-51797d8b9cd4) - shared by Athul Antony
+132) [HTTP Caching and E-Tags](https://www.youtube.com/watch?v=TgZnpp5wJWU&ab_channel=HusseinNasser) - youtube
+133) [Best article on SOLID in Android Kotlin](https://blog.stackademic.com/solid-design-principles-with-kotlin-android-69e75a566c41) - medium
