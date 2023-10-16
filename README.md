@@ -137,3 +137,4 @@ Online best contents that I found for specific topic.
 132) [Suspend function under the hood simple article](https://betterprogramming.pub/kotlin-coroutine-internals-49518ecf2977) - shared by Athul Antony
 133) [HTTP Caching and E-Tags](https://www.youtube.com/watch?v=TgZnpp5wJWU&ab_channel=HusseinNasser) - youtube
 134) [Best article on SOLID in Android Kotlin](https://blog.stackademic.com/solid-design-principles-with-kotlin-android-69e75a566c41) - medium
+135) [Android interview kit](https://youtube.com/playlist?list=PLuppOTn4pNYdqqRtZn0e8soaC7V3y-jGa&si=gGTBvneZIezjbv99)- bootcamp, handshake,thread, cache and looper
