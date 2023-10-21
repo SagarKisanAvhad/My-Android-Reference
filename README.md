@@ -140,3 +140,6 @@ Online best contents that I found for specific topic.
 135) [Best article on SOLID in Android Kotlin](https://blog.stackademic.com/solid-design-principles-with-kotlin-android-69e75a566c41) - medium
 136) [Android interview kit](https://youtube.com/playlist?list=PLuppOTn4pNYdqqRtZn0e8soaC7V3y-jGa&si=gGTBvneZIezjbv99)- bootcamp, handshake,thread, cache and looper
 137) [Good android videos](https://www.youtube.com/@NativeMobileBits/featured) - Native Mobile Bits youtube channel
+138) [MVI Blog one with repo](https://medium.com/@giorgos.patronas1/android-from-mvvm-to-mvi-with-example-e8e80195996b)- medium
+139) [MVI Blog two](https://blog.mindorks.com/mvi-architecture-android-tutorial-for-beginners-step-by-step-guide/)- mindorks blog
+140) [MVI Blog three](https://medium.com/bumble-tech/a-modern-kotlin-based-mvi-architecture-9924e08efab1)- medium
