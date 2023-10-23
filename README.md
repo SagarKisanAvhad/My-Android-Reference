@@ -110,38 +110,39 @@ Online best contents that I found for specific topic.
 105) [Throughput vs Latency](https://www.youtube.com/watch?v=f7VsHLk_Z8c) - performance matrix
 106) [What is p99, p95, p75](https://www.youtube.com/watch?v=3JdQOExKtUY&t=1s) - performance matrix
 107) [Performance matrix of android app](https://amitshekhar.me/blog/android-app-performance-metrics) - Amit shekhar
-108) [Charles proxy setup](https://www.youtube.com/watch?v=2VnA5VfFpNk) - Sunil Kumar Sahoo
-109) [Charles documents](https://charlesdocsy.com/2020/05/11/rewrite-modify-the-request/) - unofficial, debugging and changing request and response
-110) [how to pass query variables in graphQL playground](https://www.youtube.com/watch?v=eM7RsolIghQ) - Amitav Roy
-111) [Mobile System design round preparation](https://github.com/SagarKisanAvhad/System-design-resources/tree/main) - Amit Shekhar
-112) [Webm to gif converter online free](https://www.veed.io/convert/webm-to-gif) - veed.io. we can also convert video to gif. I prefer gifsky app for video to gif converter
-113) [SOLID and Clean code](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) - blog by Uncle bob
-114) [Podcast by Android platform team](https://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes#)
-115) [Compose modelling complex screen step by step](https://www.composables.com/tutorials/modelling) - Alex Styl
-116) [Facebook Compose using Jetpack Compose](https://github.com/alexstyl/facebook-compose) - Alex Styl from composables. [youtube link](https://www.youtube.com/watch?v=CD15HtjmrWA)
-117) [Jetpack compose by example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) - repository by Vinay Gaba
-118) [compose projects](https://medium.com/codex/7-jetpack-compose-projects-to-become-a-better-android-developer-98714dcdeff8)
-119) [Internal working of View model](https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e) - shared by Amit Verma
-120) [Difference between compilesdkversion and targetsdkversion](https://proandroiddev.com/compilesdkversion-and-targetsdkversion-what-is-the-difference-b4227c663ba8) - Paulina medium article.
-121) [How does Viewmodel work internally?](https://www.youtube.com/watch?v=HWiYYihaJ4A) - Abhriya Roy youtube channel.
-122) [How does Viewmodel work internally?](https://medium.com/mindorks/android-viewmodels-under-the-hood-ddc679d77dd5) - shared by Amit Verma
-123) [Compose Clean architecture Hindi](https://www.youtube.com/@himanshugaur/playlists) - Vision Android Hindi channel
-124) [Kotlin unit testing](https://kotlintesting.com/mocking-suspend-with-mockk/) - Android unit testing coroutine
-125) [Uber RIBs architecture](https://github.com/uber/RIBs) - Uber
-126) [What is RIBs architecture](https://medium.com/@shinoogoyalaggarwal/rib-what-is-this-new-architecture-22ec729df70e) - medium blog
-127) [Saving UI state and ViewModel](https://medium.com/androiddevelopers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090) - by Lyla
-128) [Apollo Federation docs](https://www.apollographql.com/docs/federation/)
-129) [Apollo Federation Video course about resolver](https://www.apollographql.com/tutorials/voyage-part1/01-intro-to-federation)
-130) [Apollo Federation demo sample repo](https://github.com/SagarKisanAvhad/space-camp-federation-demo/tree/master)
-131) [Apollo Federation demo sample video](https://www.youtube.com/watch?v=v_1bn2sHdk4)
-132) [SDKMAN](https://www.baeldung.com/java-sdkman-intro) - How to maintain multiple versions of a same SDK. e.g. how to maintain latest JDK and JDK 8 in the same machine.
-133) [Android source code](https://cs.android.com/androidx/platform/frameworks/support) - read android source code
-134) [Suspend function under the hood](https://blog.kotlin-academy.com/kotlin-coroutines-animated-part-1-coroutine-hello-world-51797d8b9cd4) - shared by Athul Antony
-135) [Suspend function under the hood simple article](https://betterprogramming.pub/kotlin-coroutine-internals-49518ecf2977) - shared by Athul Antony
-136) [HTTP Caching and E-Tags](https://www.youtube.com/watch?v=TgZnpp5wJWU&ab_channel=HusseinNasser) - youtube
-137) [Best article on SOLID in Android Kotlin](https://blog.stackademic.com/solid-design-principles-with-kotlin-android-69e75a566c41) - medium
-138) [Android interview kit](https://youtube.com/playlist?list=PLuppOTn4pNYdqqRtZn0e8soaC7V3y-jGa&si=gGTBvneZIezjbv99)- bootcamp, handshake,thread, cache and looper
-139) [Good android videos](https://www.youtube.com/@NativeMobileBits/featured) - Native Mobile Bits youtube channel
-140) [MVI Blog one with repo](https://medium.com/@giorgos.patronas1/android-from-mvvm-to-mvi-with-example-e8e80195996b)- medium
-141) [MVI Blog two](https://blog.mindorks.com/mvi-architecture-android-tutorial-for-beginners-step-by-step-guide/)- mindorks blog
-142) [MVI Blog three](https://medium.com/bumble-tech/a-modern-kotlin-based-mvi-architecture-9924e08efab1)- medium
+108) [Latency and throughout of system](https://www.youtube.com/watch?v=f7VsHLk_Z8c&t=195s) - request processing latency and max throughout
+109) [Charles proxy setup](https://www.youtube.com/watch?v=2VnA5VfFpNk) - Sunil Kumar Sahoo
+110) [Charles documents](https://charlesdocsy.com/2020/05/11/rewrite-modify-the-request/) - unofficial, debugging and changing request and response
+111) [how to pass query variables in graphQL playground](https://www.youtube.com/watch?v=eM7RsolIghQ) - Amitav Roy
+112) [Mobile System design round preparation](https://github.com/SagarKisanAvhad/System-design-resources/tree/main) - Amit Shekhar
+113) [Webm to gif converter online free](https://www.veed.io/convert/webm-to-gif) - veed.io. we can also convert video to gif. I prefer gifsky app for video to gif converter
+114) [SOLID and Clean code](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) - blog by Uncle bob
+115) [Podcast by Android platform team](https://adbackstage.libsyn.com/episode-196-android-studio-behind-the-scenes#)
+116) [Compose modelling complex screen step by step](https://www.composables.com/tutorials/modelling) - Alex Styl
+117) [Facebook Compose using Jetpack Compose](https://github.com/alexstyl/facebook-compose) - Alex Styl from composables. [youtube link](https://www.youtube.com/watch?v=CD15HtjmrWA)
+118) [Jetpack compose by example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) - repository by Vinay Gaba
+119) [compose projects](https://medium.com/codex/7-jetpack-compose-projects-to-become-a-better-android-developer-98714dcdeff8)
+120) [Internal working of View model](https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e) - shared by Amit Verma
+121) [Difference between compilesdkversion and targetsdkversion](https://proandroiddev.com/compilesdkversion-and-targetsdkversion-what-is-the-difference-b4227c663ba8) - Paulina medium article.
+122) [How does Viewmodel work internally?](https://www.youtube.com/watch?v=HWiYYihaJ4A) - Abhriya Roy youtube channel.
+123) [How does Viewmodel work internally?](https://medium.com/mindorks/android-viewmodels-under-the-hood-ddc679d77dd5) - shared by Amit Verma
+124) [Compose Clean architecture Hindi](https://www.youtube.com/@himanshugaur/playlists) - Vision Android Hindi channel
+125) [Kotlin unit testing](https://kotlintesting.com/mocking-suspend-with-mockk/) - Android unit testing coroutine
+126) [Uber RIBs architecture](https://github.com/uber/RIBs) - Uber
+127) [What is RIBs architecture](https://medium.com/@shinoogoyalaggarwal/rib-what-is-this-new-architecture-22ec729df70e) - medium blog
+128) [Saving UI state and ViewModel](https://medium.com/androiddevelopers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090) - by Lyla
+129) [Apollo Federation docs](https://www.apollographql.com/docs/federation/)
+130) [Apollo Federation Video course about resolver](https://www.apollographql.com/tutorials/voyage-part1/01-intro-to-federation)
+131) [Apollo Federation demo sample repo](https://github.com/SagarKisanAvhad/space-camp-federation-demo/tree/master)
+132) [Apollo Federation demo sample video](https://www.youtube.com/watch?v=v_1bn2sHdk4)
+133) [SDKMAN](https://www.baeldung.com/java-sdkman-intro) - How to maintain multiple versions of a same SDK. e.g. how to maintain latest JDK and JDK 8 in the same machine.
+134) [Android source code](https://cs.android.com/androidx/platform/frameworks/support) - read android source code
+135) [Suspend function under the hood](https://blog.kotlin-academy.com/kotlin-coroutines-animated-part-1-coroutine-hello-world-51797d8b9cd4) - shared by Athul Antony
+136) [Suspend function under the hood simple article](https://betterprogramming.pub/kotlin-coroutine-internals-49518ecf2977) - shared by Athul Antony
+137) [HTTP Caching and E-Tags](https://www.youtube.com/watch?v=TgZnpp5wJWU&ab_channel=HusseinNasser) - youtube
+138) [Best article on SOLID in Android Kotlin](https://blog.stackademic.com/solid-design-principles-with-kotlin-android-69e75a566c41) - medium
+139) [Android interview kit](https://youtube.com/playlist?list=PLuppOTn4pNYdqqRtZn0e8soaC7V3y-jGa&si=gGTBvneZIezjbv99)- bootcamp, handshake,thread, cache and looper
+140) [Good android videos](https://www.youtube.com/@NativeMobileBits/featured) - Native Mobile Bits youtube channel
+141) [MVI Blog one with repo](https://medium.com/@giorgos.patronas1/android-from-mvvm-to-mvi-with-example-e8e80195996b)- medium
+142) [MVI Blog two](https://blog.mindorks.com/mvi-architecture-android-tutorial-for-beginners-step-by-step-guide/)- mindorks blog
+143) [MVI Blog three](https://medium.com/bumble-tech/a-modern-kotlin-based-mvi-architecture-9924e08efab1)- medium
