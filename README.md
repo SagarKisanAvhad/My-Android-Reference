@@ -146,3 +146,4 @@ Online best contents that I found for specific topic.
 141) [MVI Blog one with repo](https://medium.com/@giorgos.patronas1/android-from-mvvm-to-mvi-with-example-e8e80195996b)- medium
 142) [MVI Blog two](https://blog.mindorks.com/mvi-architecture-android-tutorial-for-beginners-step-by-step-guide/)- mindorks blog
 143) [MVI Blog three](https://medium.com/bumble-tech/a-modern-kotlin-based-mvi-architecture-9924e08efab1)- medium
+144) [KMP and Compose Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html) - Jetbrain official docs
