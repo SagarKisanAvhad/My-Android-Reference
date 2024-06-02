@@ -3,7 +3,7 @@ Online best contents that I found for specific topic.
 
 
 1) [Android Developer roadmap 2023](https://androidpro.notion.site/Android-Developer-roadmap-2023-f6e7fc0e5bb440ccb4c2d09d0718e7b0) - from https://androidpro.io/
-2) [Compose the order of modifier matters][https://stackoverflow.com/questions/62939473/how-to-add-margin-in-jetpack-compose] - read all answers
+2) [Compose the order of modifier matters](https://stackoverflow.com/questions/62939473/how-to-add-margin-in-jetpack-compose) - read all answers
 3) [App performance in a nutshell guide 2023](https://www.droidcon.com/2023/11/15/android-app-performance-in-a-nutshell) -droidcon
 4) [Collect and CollectLatest operators usecase](https://hardiksachan.hashnode.dev/kotlin-flows-collect-vs-collectlatest) - Hardik Sachan
 5) [Progaurd commands and its meaning](https://jebware.com/blog/?p=418) - different progaurd -keep directives by Jeb
