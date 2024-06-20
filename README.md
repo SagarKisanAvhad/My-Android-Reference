@@ -152,3 +152,4 @@ Online best contents that I found for specific topic.
 148) [MVI Blog two](https://blog.mindorks.com/mvi-architecture-android-tutorial-for-beginners-step-by-step-guide/)- mindorks blog
 149) [MVI Blog three](https://medium.com/bumble-tech/a-modern-kotlin-based-mvi-architecture-9924e08efab1)- medium
 150) [KMP and Compose Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html) - Jetbrain official docs
+151) [Markdown based emoji](https://gist.github.com/rxaviers/7360908) - Useful in PR description template
